@@ -1,5 +1,4 @@
-<img src="/src/tela.png" alt="PokeDex">
-![Alt text](/src/tela.png)
+<img src="/src/img/tela.png" alt="PokeDex">
 
 # 📖 Projeto  
 
