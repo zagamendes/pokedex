@@ -1,0 +1,8 @@
+.ctn-logo {
+  width: 100px;
+}
+@media (max-width: 768px) {
+  .myHeader {
+    justify-content: center !important;
+  }
+}

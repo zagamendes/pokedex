@@ -1,0 +1,24 @@
+.card {
+  width: 210px;
+  max-width: 210px;
+
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.card img {
+  object-fit: scale-down;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 140px;
+  }
+}

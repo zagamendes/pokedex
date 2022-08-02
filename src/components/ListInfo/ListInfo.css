@@ -1,0 +1,11 @@
+.my-progress-bar {
+  animation: growWidth 1s normal;
+  height: 10px;
+  border-radius: 10px;
+  margin-left: 7px;
+}
+@keyframes growWidth {
+  0% {
+    width: 0;
+  }
+}
